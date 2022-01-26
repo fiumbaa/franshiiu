@@ -1,0 +1,18 @@
+body {
+	background: url(starry-night-sky.jpg);
+}
+h1 {color:crimson; 
+	font-size: 40px; 
+	text-align:center;
+	text-shadow: 3px 1px 0px #50003D;}
+
+p 	{color: silver;
+	font-size: 20px;}
+
+h2 {color: white; 
+	font-size: 23px;}
+
+div img{display: block;
+		border:10px double #C70039;}
+
+img {border:9px double #C70039}
